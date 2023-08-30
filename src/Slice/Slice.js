@@ -9,7 +9,7 @@ const initialState ={
 
 const sliceList = createSlice ({
     name :"SliceList",
-    initialState
+    initialState,
 })
 
 export default sliceList.reducer
