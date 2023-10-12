@@ -1,0 +1,10 @@
+table, th, td {
+    border: 1px solid black !important;
+    border-collapse: collapse !important;
+    margin: 20px !important;
+    padding: 20px !important;
+  }
+
+  button {
+    margin-right: 10px !important;
+  }
